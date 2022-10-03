@@ -245,7 +245,7 @@ def module_enrichment(universe,
     pbar = ProgressBar().start()
     total_step = 2
     step = 1
-    
+
     dmap = Density(universe,
                    ncore)
    
